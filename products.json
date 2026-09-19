@@ -1,12 +1,12 @@
 {
-  "6283312763854": {
-    "name": "ناظور بلجيكي",
-    "price": "السعر موضح بالصورة",
-    "image": "https://raw.githubusercontent.com/Abdulmajed1/products/main/6283312763854.jpg"
-  },
-  "S12763": {
-    "name": "ناظور بلجيكي",
-    "price": "السعر موضح بالصورة",
-    "image": "https://raw.githubusercontent.com/Abdulmajed1/products/main/6283312763854.jpg"
-  }
+    "6283312763854": {
+        "name": "ناظور بلجيكي",
+        "price": "السعر موضح بالصورة",
+        "image": "https://raw.githubusercontent.com/Abdulmajed1/products/main/6283312763854.jpg"
+    },
+    "REMOTE-01": {
+        "name": "ريموت المكيف الشامل",
+        "price": "السعر موضح بالصورة",
+        "image": "https://raw.githubusercontent.com/Abdulmajed1/products/main/PXL_20260919_023104420.jpg"
+    }
 }
